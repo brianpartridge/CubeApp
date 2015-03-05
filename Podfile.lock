@@ -1,0 +1,14 @@
+PODS:
+  - CubeCore (1.0.0)
+
+DEPENDENCIES:
+  - CubeCore (from `CubeCore.podspec`)
+
+EXTERNAL SOURCES:
+  CubeCore:
+    :podspec: CubeCore.podspec
+
+SPEC CHECKSUMS:
+  CubeCore: 8c69361d066a93c92f37c05eab07a6ecde749c97
+
+COCOAPODS: 0.35.0
