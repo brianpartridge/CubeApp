@@ -1,0 +1,1 @@
+This is a test app for identifying an [issue](https://github.com/CocoaPods/CocoaPods/issues/3227) in CocoaPods 0.35. The bug is fixed in 0.36.
